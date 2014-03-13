@@ -1,0 +1,7 @@
+Package: com.jaysan1292.networkstatus
+Name: networkstatus
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Command line tool: Get type of currently connected network
+Author: Jason Recillo <jaysan1292+cydia@gmail.com>
+Section: System
